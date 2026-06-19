@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class EvenOdd{
+class EvenOdd01{
     public static boolean checkIfEven(int n){
         if(n%2==0) return true;
         else return false;
