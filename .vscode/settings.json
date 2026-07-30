@@ -2,5 +2,6 @@
     "editor.mouseWheelZoom": true,
     "editor.formatOnPaste": true,
     "editor.fontSize": 16,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "editor.stopAtEntry": false
 }
